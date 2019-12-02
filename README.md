@@ -3,7 +3,7 @@ A bookstore database application with CRUD functionality using MySQL and a GUI b
 
 This is my first attempt at a database application that has a GUI and is built using the MVC design pattern.
 
-Currntly the application only has a search by ID function, but other search functionality will be added in the near future.
+Currently the application only has a search by ID function, but other search functionality will be added in the near future.
 
 DATABASE LAYOUT
 
